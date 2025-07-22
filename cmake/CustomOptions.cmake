@@ -9,8 +9,8 @@ include(CMakeDependentOption)
 option(QGC_ENABLE_HERELINK "Enable Herelink Support" OFF)
 
 # App
-set(QGC_APP_NAME "QGroundControl" CACHE STRING "App Name")
-set(QGC_APP_COPYRIGHT "Copyright (c) 2025 QGroundControl. All rights reserved." CACHE STRING "Copyright")
+set(QGC_APP_NAME "RGC" CACHE STRING "App Name")
+set(QGC_APP_COPYRIGHT "Copyright (c) 2025 RGC. All rights reserved." CACHE STRING "Copyright")
 set(QGC_APP_DESCRIPTION "Open Source Ground Control App" CACHE STRING "Description")
 set(QGC_ORG_NAME "QGroundControl" CACHE STRING "Org Name")
 set(QGC_ORG_DOMAIN "qgroundcontrol.com" CACHE STRING "Domain")
